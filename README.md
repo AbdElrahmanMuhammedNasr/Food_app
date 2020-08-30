@@ -1,6 +1,6 @@
 # Food Ordering App - Flutter UI
 
-A new Flutter application.
+A Redesign Flutter application.
 
 ## Getting Started
 
